@@ -1,0 +1,3 @@
+str=int(input("enter"))
+for str in range(1,3):
+        print("hello")
